@@ -1,0 +1,29 @@
+{
+  "name": "day_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinhcuongnd2001/NodeJs_Course.git"
+  },
+  "keywords": [
+    "node_js"
+  ],
+  "author": "cuongdn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinhcuongnd2001/NodeJs_Course/issues"
+  },
+  "homepage": "https://github.com/dinhcuongnd2001/NodeJs_Course#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
