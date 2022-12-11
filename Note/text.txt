@@ -1,0 +1,20 @@
+9/12/2022
+- Làm Quen NodeJS với Express.
+- Cài thêm Nodemon để update lại source mà ko cần phải start lại project (chi cài trong môi trường DEV ko nên để trong môi trương product)
+- debug với --inspect trong Nodemon
+10/12/2022
+- sử dụng morgan để logger HTTP Request cho node.js (middleware) (Chỉ nên cài trong môi trường DEV ko nên để trong môi trường product)
+- Template Engines: giúp viết ra các file chứa các mã HTML ở một nơi khác (bao gồm nội dung, layout thay vì code html thủ công) -> tránh
+việc code dài, gây khó kiểm soát. (sử dụng pug để viết mã HTML)
+11/12/2022
+- Làm quen với Template engin, scss
+- Config nodemon trong file nodemon.json
+- thêm bootstrap vào trong project
+- basic routing: app.method(path, (req, res)) => {...})
+- get method
+- Query parameters: la nhung thanh phan duoc dinh len URL (PATH)
+- Form default behavior
+- post method (dung khi muon gui du lieu tu phia client len server)
+    +) Middleware : app.use(express.urlencoded()) dung de xu ly du lieu tu form gui len
+    +) MiddleWare : app.use(express.json()) dung de xu l du lieu tu js (Axios, fetch ... ) gui len
+- MVC model:

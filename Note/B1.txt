@@ -1,5 +1,0 @@
-9/12/2022
-- Làm Quen NodeJS với Express.
-- Cài thêm Nodemon để update lại source mà ko cần phải start lại project
-- debug với --inspect trong Nodemon
-- 
