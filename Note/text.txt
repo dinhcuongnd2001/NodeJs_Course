@@ -18,3 +18,5 @@ việc code dài, gây khó kiểm soát. (sử dụng pug để viết mã HTML
     +) Middleware : app.use(express.urlencoded()) dung de xu ly du lieu tu form gui len
     +) MiddleWare : app.use(express.json()) dung de xu l du lieu tu js (Axios, fetch ... ) gui len
 - MVC model:
+12/12/2022:
+-Routes & Controller
